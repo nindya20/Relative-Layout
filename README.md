@@ -8,3 +8,4 @@ Relative Layout adalah layout yang penataan nya ini adalah penataan yang menempa
 
 # Berikut Contoh Penerapan Relative Layout
 
+![WhatsApp Image 2021-02-09 at 20 50 44](https://user-images.githubusercontent.com/60589822/107374936-c1d1b580-6b1a-11eb-9ec3-7f3a588c2a2f.jpeg)
